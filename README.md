@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Brian (NorthSchema)
 
-<!--
-**nctrnlsoul/nctrnlsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building and fixing web and on-chain apps. I ship AI agent tooling and guardrails on Base, and build SaaS MVPs and dashboards on Next.js, TypeScript, and Supabase.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build custom web apps and SaaS MVPs, deployed live
+
+- Fix broken and AI-generated codebases
+
+- Ship AI agent guardrails and on-chain tooling
+
+## Selected work
+
+- PolicyGuard on CROO: a callable agent guardrail, live on Base with real USDC settlement
+
+- PolicyGuard on BNB: an on-chain guardrail contract with a live app
+
+- Hedera Policy Agent: a policy-enforced guardrail for a Hedera AI agent
+
+## Work with me
+
+Freelance and contract: https://www.fiverr.com/northschema
