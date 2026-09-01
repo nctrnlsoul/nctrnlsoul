@@ -14,8 +14,6 @@ Full-stack developer building and fixing web and on-chain apps. I ship AI agent 
 
 - PolicyGuard on CROO: a callable agent guardrail, live on Base with real USDC settlement
 
-- PolicyGuard on BNB: an on-chain guardrail contract with a live app
-
 - Hedera Policy Agent: a policy-enforced guardrail for a Hedera AI agent
 
 ## Work with me
